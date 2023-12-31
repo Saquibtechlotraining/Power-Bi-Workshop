@@ -1,7 +1,12 @@
 # POWER BI Workhop
 
+#### This is the Data Analytics Using Power Bi workhop with END - TO - END Project Organised by TechTip24.
 
-### Screenshots:
+### ‣ 𝗖𝗲𝗿𝘁𝗶𝗳𝗶𝗰𝗮𝘁𝗲:    
+  [Click Here](https://github.com/Saquibtechlotraining/Power-Bi-Workshop/blob/main/Power%20Bi%20Workshop%20Certificate.pdf)
+
+
+### ‣ Screenshots:
 
 ![E-COM Screenshot-1](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/379563cf-dad4-471c-8d71-f2e40163fd81)
 
