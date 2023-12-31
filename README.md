@@ -6,7 +6,7 @@
   [Click Here](https://github.com/Saquibtechlotraining/Power-Bi-Workshop/blob/main/Power%20Bi%20Workshop%20Certificate.pdf)
 
 
-### ‣ Screenshots:
+### ‣ Dashboard Screenshots:
 
 ![E-COM Screenshot-1](https://github.com/Saquibtechlotraining/image-added-readme/assets/91885135/379563cf-dad4-471c-8d71-f2e40163fd81)
 
